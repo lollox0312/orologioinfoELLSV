@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "orologiofinito1", "orologiofinito1\orologiofinito1.csproj", "{A61B0486-A364-4066-A8E8-009FE5EFFBAB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A61B0486-A364-4066-A8E8-009FE5EFFBAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A61B0486-A364-4066-A8E8-009FE5EFFBAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A61B0486-A364-4066-A8E8-009FE5EFFBAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A61B0486-A364-4066-A8E8-009FE5EFFBAB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5B470169-0A11-4937-A3AF-038804EA197E}
+	EndGlobalSection
+EndGlobal
